@@ -98,6 +98,3 @@ Since **LinkedIn API** & **Google Jobs API** have restrictions:
 - Generate role-specific interview questions.
 
 ---
-
-## **License**
-MIT License
