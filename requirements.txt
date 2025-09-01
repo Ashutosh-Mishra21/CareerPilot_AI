@@ -3,3 +3,9 @@ pydantic
 uvicorn
 python-jobspy
 pandas
+jinja2
+python-multipart
+beautifulsoup4
+requests
+google-genai
+python-dotenv
